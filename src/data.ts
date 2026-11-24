@@ -589,6 +589,168 @@ export const featuredProjects: FeaturedLaunchProject[] = [
       
     ],
   },
+  {
+    id: 'project-ispsc-graduate-tracer',
+    link: '',
+    name: 'ISPSC Graduate Tracer',
+    client: '',
+    category: '',
+    badge: '',
+    infoText: '',
+    highlightMetric: '',
+    variations: [
+      {
+        id: 'ispsc-graduate-tracer-1',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+      {
+        id: 'ispsc-graduate-tracer-2',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+      {
+        id: 'ispsc-graduate-tracer-3',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+    ],
+  },
+  {
+    id: 'project-radio-frequency-identification',
+    link: '',
+    name: 'Radio Frequency Identification',
+    client: '',
+    category: '',
+    badge: '',
+    infoText: '',
+    highlightMetric: '',
+    variations: [
+      {
+        id: 'radio-frequency-identification-1',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+      {
+        id: 'radio-frequency-identification-2',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+      {
+        id: 'radio-frequency-identification-3',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+    ],
+  },
+  {
+    id: 'project-edugemini',
+    link: '',
+    name: 'EduGemini',
+    client: '',
+    category: '',
+    badge: '',
+    infoText: '',
+    highlightMetric: '',
+    variations: [
+      {
+        id: 'edugemini-1',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+      {
+        id: 'edugemini-2',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+      {
+        id: 'edugemini-3',
+        title: '',
+        category: '',
+        tag: '',
+        cvrTag: '',
+        image: '',
+        description: '',
+        specs: {
+          stack: '',
+          responsiveness: '',
+          performance: '',
+        },
+      },
+    ],
+  },
 ];;
 
 export const workItems: WorkItem[] = [
@@ -716,6 +878,48 @@ export const workItems: WorkItem[] = [
       stack: 'Next.js, Tailwind CSS',
       responsiveness: 'Desktop & Large Screen',
       performance: 'Core Web Vitals 96/100'
+    }
+  },
+  {
+    id: 'ispsc-graduate-tracer',
+    title: 'ISPSC Graduate Tracer',
+    category: '',
+    collectionDate: '',
+    priceTag: '',
+    image: '',
+    description: '',
+    specs: {
+      stack: '',
+      responsiveness: '',
+      performance: ''
+    }
+  },
+  {
+    id: 'radio-frequency-identification',
+    title: 'Radio Frequency Identification',
+    category: '',
+    collectionDate: '',
+    priceTag: '',
+    image: '',
+    description: '',
+    specs: {
+      stack: '',
+      responsiveness: '',
+      performance: ''
+    }
+  },
+  {
+    id: 'edugemini',
+    title: 'EduGemini',
+    category: '',
+    collectionDate: '',
+    priceTag: '',
+    image: '',
+    description: '',
+    specs: {
+      stack: '',
+      responsiveness: '',
+      performance: ''
     }
   }
 ];
